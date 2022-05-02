@@ -1,5 +1,29 @@
 {
   "dependencies": {
+    "chromedriver": "^101.0.0",
+    "geckodriver": "^3.0.1",
     "selenium-webdriver": "^4.1.2"
-  }
+  },
+  "name": "selenium-js-exercise",
+  "version": "1.0.0",
+  "main": "test.js",
+  "directories": {
+    "test": "tests"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MerlijnVanherck/selenium-js-exercise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MerlijnVanherck/selenium-js-exercise/issues"
+  },
+  "homepage": "https://github.com/MerlijnVanherck/selenium-js-exercise#readme",
+  "description": ""
 }
